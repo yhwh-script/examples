@@ -1,2 +1,2 @@
 # examples
-Examples of customElements for the @yhwh-script/elements framework.
+Examples of custom elements for @yhwh-script/elements
